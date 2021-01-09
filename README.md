@@ -1,2 +1,1 @@
-# vfx
-VFX Showreel
+# VFX Showreel
